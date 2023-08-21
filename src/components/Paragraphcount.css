@@ -1,0 +1,27 @@
+.container {
+  margin: 20px;
+  max-width: 500px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+}
+
+.word-count {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.paragraph-display {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.paragraph-display strong {
+  font-weight: bold;
+  display: block;
+}
